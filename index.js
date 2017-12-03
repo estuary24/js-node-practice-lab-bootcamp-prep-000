@@ -1,7 +1,4 @@
-Name:
-joe
-Height:
-74
+
 
 var name = "joe"
 var height = "74"
